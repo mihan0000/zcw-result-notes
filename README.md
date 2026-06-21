@@ -1,2 +1,14 @@
 # zcw-result-notes
-HTML page archive and documentation
+
+静态页面保存仓库
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
